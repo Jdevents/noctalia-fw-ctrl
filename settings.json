@@ -1,0 +1,8 @@
+{
+  "pollMs": 2000,
+  "profilesCsv": "laziest, lazy, medium, agile, very agile, deaf, aeolus",
+  "useEctool": false,
+  "tempSensor": "cpu@4c",
+  "showRpmInBar": true,
+  "historyPoints": 60
+}
