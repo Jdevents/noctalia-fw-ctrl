@@ -1,0 +1,1 @@
+Control fw-fanctrl profiles from Noctalia (Framework 16).
